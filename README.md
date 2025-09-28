@@ -47,4 +47,28 @@ I ran Juice Shop locally and connected ZAP to scan it.
 
 ## References
 - [OWASP ZAP](https://www.zaproxy.org/)  
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)  
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) 
+
+## Screenshots
+
+### Juice Shop Homepage
+![Juice Shop](docs/screenshots/Owasp%20Juice%20Shop.jpg)
+
+### Spider
+![Spider](docs/screenshots/Spider.jpg)
+
+### Ajax Spider
+![Ajax Spider](docs/screenshots/Ajax%20Spider.jpg)
+
+### Active Scan
+![Active Scan](docs/screenshots/Active%20Scan.jpg)
+
+### WebSockets
+![WebSockets](docs/screenshots/WebSockets.jpg)
+
+### History
+![History](docs/screenshots/History.jpg)
+
+### Alerts
+![Alerts](docs/screenshots/Alerts.jpg)
+
