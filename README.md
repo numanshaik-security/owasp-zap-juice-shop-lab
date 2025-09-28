@@ -72,3 +72,9 @@ I ran Juice Shop locally and connected ZAP to scan it.
 ### Alerts
 ![Alerts](docs/screenshots/Alerts.jpg)
 
+## Report
+
+The full OWASP ZAP scan report can be viewed here:  
+[View Report (HTML)](reports/owasp-zap-report.html)
+
+
