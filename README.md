@@ -74,7 +74,8 @@ I ran Juice Shop locally and connected ZAP to scan it.
 
 ## 📊 Full ZAP Report
 You can view the complete detailed OWASP ZAP scan report here:  
-👉 [OWASP ZAP Juice Shop Report](https://numanshaik-security.github.io/owasp-zap-juice-shop-lab/docs/owasp-zap-report.html)
+👉 [OWASP ZAP Juice Shop Report](https://numanshaik-security.github.io/owasp-zap-juice-shop-lab/owasp-zap-report.html)
+
 
 
 
